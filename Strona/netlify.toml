@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/strona/index.html"
+to = "/index.html"
 status = 200
